@@ -1,0 +1,38 @@
+ body {
+   background-color: aqua;
+ }
+ a {
+   color: darkred;
+   font-size: 30px;
+ }
+ .ingenieros {
+   background-color: blue;
+   color: chartreuse;
+   font-size: 70px;
+   margin: 3%;
+ }
+ .ricos-tacos {
+   margin: 4ch;
+   border-style: solid;
+   color: black;
+   padding: 1%;
+ }
+ .ricos-chiles-en-nogada {
+   margin: 4ch;
+   border-style: solid;
+   color: black;
+   padding: 1%;
+ }
+ #slogan {
+   color: darkviolet;
+   margin: 2ch;
+   background-color: azure;
+   padding: 1cm;
+ }
+ .tamaño-de-icono {
+   font-size: 30px;
+   color: deeppink;
+   margin: 3ch;
+   font-family: 'Times New Roman', Times, serif;
+   border-style: solid;
+ }
